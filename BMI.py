@@ -1,7 +1,7 @@
 # calculate BMI
 from cgi import print_arguments
 
-
+print ("Calculation Of BMI")
 height=float(input("Enter your height:"))
 weight=float(input("Enter your weight:"))
 bmi=(weight/(height**2))
