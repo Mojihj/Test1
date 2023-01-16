@@ -1,4 +1,5 @@
 # Taeen adad aval
+print ("calculation of prime number")
 n= int (input("Please Enter Your Number:"))
 def is_prime (n):
     aval=True
