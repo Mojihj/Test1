@@ -10,6 +10,7 @@ if is_prime (n)==True:
     print ("The number is prime")
 else:
      print ("The number is NOT prime")
+     print ("The End")
 
 
 
