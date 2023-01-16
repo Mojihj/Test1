@@ -11,7 +11,7 @@ if is_prime (n)==True:
 else:
      print ("The number is NOT prime")
      print ("The End")
-
+print ("this is great")
 
 
     
